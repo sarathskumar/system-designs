@@ -7,9 +7,13 @@ Company X is a pumpkin-producing company that sells pumpkins via retail shops an
 The current IT/process setup of Company A online shop is the following:
 
 • Python with Django and Postgresql running on Gunicorn with an NGINX reverse proxy infront.
+
 • Manual deployments and integration testruns.
+
 • The Frontend is build with HTML/CSS and jQuery.
+
 • The dedicated on-premise server does work fine during an average day but reaches its capacity limits during autumn peak season.
+
 • The server is observed on a daily basis and log files are checked manually.
 
 
